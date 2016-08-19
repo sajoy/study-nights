@@ -24,7 +24,7 @@
 - Have something to add? Make a [pull request]()!
 
 ## Study Night Info
-Typically **6pm - 8:30pm, 1st & 3rd Tuesdays @ TBD**.<br>
+Typically **6pm - 9pm, 2nd & 4th Tuesdays @ [Epicodus](https://goo.gl/maps/8wKqw5qrFz12)**.<br>
 Please check our [Meetup page](https://www.meetup.com/Women-Who-Code-Portland/) for exact dates, cancelations, etc.
 
 Our goal is to provide a space and time where all feel welcome and encouraged to learn about, fan girl (or boy) about, admit confusion about, and learn to love that programming language that makes the internet go 'round: JavaScript.
